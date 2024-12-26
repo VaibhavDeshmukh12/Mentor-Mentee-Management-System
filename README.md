@@ -5,6 +5,7 @@ This is a Mentor-Mentee Management System implemented in Java using JSP, JDBC, a
 ## Technologies Used
 
 - Java
+- JavaScript
 - JSP (JavaServer Pages)
 - JDBC (Java Database Connectivity)
 - Servlets
